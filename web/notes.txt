@@ -1,0 +1,15 @@
+extract the zip package into e.g. c:\istr\simulator
+execute: cmd.exe
+execute: cd c:\istr\simulator
+execute: python basic_switches.py
+
+choose the circuits menu option
+from the terminal, choose
+   u - set   gpio 2 to 1
+   d - reset gpio 2 to 0
+    
+   
+
+
+
+ 
